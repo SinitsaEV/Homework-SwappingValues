@@ -14,13 +14,13 @@ namespace SwappingValues
 
             string name = "Синица";
             string surname = "Евгений";
-            string swapValue;
+            string buffer;
 
             Console.WriteLine($" Имя: {name}  Фамилия: {surname} ");
 
-            swapValue = name;
+            buffer = name;
             name = surname;
-            surname = swapValue;
+            surname = buffer;
 
             Console.WriteLine($" Имя: {name}  Фамилия: {surname} ");
         }
