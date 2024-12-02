@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Courses\\Desktop\\Course\\C#_Junior\\BasicsOfProgramming\\SwappingValues\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{59B3941E-0FCD-4931-A672-C0C3EF3F509A}|SwappingValues\\SwappingValues.csproj|c:\\users\\courses\\desktop\\course\\c#_junior\\basicsofprogramming\\swappingvalues\\swappingvalues\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{59B3941E-0FCD-4931-A672-C0C3EF3F509A}|SwappingValues\\SwappingValues.csproj|solutionrelative:swappingvalues\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Courses\\Desktop\\Course\\C#_Junior\\BasicsOfProgramming\\SwappingValues\\SwappingValues\\Program.cs",
+              "RelativeDocumentMoniker": "SwappingValues\\Program.cs",
+              "ToolTip": "C:\\Users\\Courses\\Desktop\\Course\\C#_Junior\\BasicsOfProgramming\\SwappingValues\\SwappingValues\\Program.cs",
+              "RelativeToolTip": "SwappingValues\\Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABIAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T11:27:29.542Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,7 @@
+C:\Users\Courses\Desktop\Course\C#_Junior\BasicsOfProgramming\SwappingValues\SwappingValues\bin\Debug\SwappingValues.exe.config
+C:\Users\Courses\Desktop\Course\C#_Junior\BasicsOfProgramming\SwappingValues\SwappingValues\bin\Debug\SwappingValues.exe
+C:\Users\Courses\Desktop\Course\C#_Junior\BasicsOfProgramming\SwappingValues\SwappingValues\bin\Debug\SwappingValues.pdb
+C:\Users\Courses\Desktop\Course\C#_Junior\BasicsOfProgramming\SwappingValues\SwappingValues\obj\Debug\SwappingValues.csproj.AssemblyReference.cache
+C:\Users\Courses\Desktop\Course\C#_Junior\BasicsOfProgramming\SwappingValues\SwappingValues\obj\Debug\SwappingValues.csproj.CoreCompileInputs.cache
+C:\Users\Courses\Desktop\Course\C#_Junior\BasicsOfProgramming\SwappingValues\SwappingValues\obj\Debug\SwappingValues.exe
+C:\Users\Courses\Desktop\Course\C#_Junior\BasicsOfProgramming\SwappingValues\SwappingValues\obj\Debug\SwappingValues.pdb
